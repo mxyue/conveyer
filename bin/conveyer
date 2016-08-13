@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'conveyer'
+
+jpegtran = Conveyer::Jpegtran.new  
+jpegtran.compress  
