@@ -3,8 +3,8 @@
 ## Installation
 
 ### download jpeptran
-- Mac or Linux [unix jpeptran software]('http://www.ijg.org/files/jpegsrc.v9b.tar.gz')
-- Windows [win jpeptran software]('http://www.ijg.org/files/jpegsr9b.zip')
+- Mac or Linux [unix jpeptran software](http://www.ijg.org/files/jpegsrc.v9b.tar.gz)
+- Windows [win jpeptran software](http://www.ijg.org/files/jpegsr9b.zip)
 
 ### first
 
