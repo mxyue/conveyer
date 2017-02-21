@@ -6,6 +6,14 @@
 - Mac or Linux [unix jpeptran software](http://www.ijg.org/files/jpegsrc.v9b.tar.gz)
 - Windows [win jpeptran software](http://www.ijg.org/files/jpegsr9b.zip)
 
+### install jpeptran
+
+- Mac or Linux 
+
+    ./configure
+    
+    make && make install
+
 ### first
 
     git clone https://github.com/mxyue/conveyer.git
