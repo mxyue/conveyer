@@ -2,27 +2,23 @@
 
 ## Installation
 
-Add this line to your application's Gemfile:
+### download jpeptran
+- Mac or Linux [unix jpeptran software]('http://www.ijg.org/files/jpegsrc.v9b.tar.gz')
+- Windows [win jpeptran software]('http://www.ijg.org/files/jpegsr9b.zip')
 
-```ruby
-gem 'conveyer'
-```
+### first
 
-And then execute:
+    git clone https://github.com/mxyue/conveyer.git
 
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install conveyer
+### then
+    
+    cd conveyer
+    rake install
 
 ## Usage
 
-TODO: Write usage instructions here
+ in terminal, open what file in directory. then use conveyer command. JPG files in this folder will compress and save to zip-jpgs directory.
 
-## Development
-
-To install this gem onto your local machine, run `bundle exec rake install`. To release a new version, update the version number in `version.rb`, and then run `bundle exec rake release`, which will create a git tag for the version, push git commits and tags, and push the `.gem` file to [rubygems.org](https://rubygems.org).
 
 ## Contributing
 
