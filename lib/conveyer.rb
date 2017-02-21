@@ -13,7 +13,7 @@ module Conveyer
         end
 
         Dir["*"].each do |f|
-            if f.split('.').last == 'jpg'
+            if f.split('.').last == 'jpg' || f.split('.').last == 'jpeg'
                 puts f
                 system "jpegtran -copy none -optimize -progressive -outfile #{ZIP_DIR}/#{f} #{f}" 
             end
